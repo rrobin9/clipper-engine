@@ -35,7 +35,7 @@ computer: **free, no account, no login.**
 - **Clipper Engine:** press start and it records the best streams and clips every moment the
   chat explodes. **Clip it now** finds the best moment of the last 3 minutes, or takes the last
   15 s to 2 min; **Mark start / Mark end** clips exactly what you marked.
-- **Clip Garage:** every clip in widescreen and 9:16 with captions. Trim, switch the layout,
+- **GTA 6 Video Garage:** every clip in widescreen and 9:16 with captions. Trim, switch the layout,
   approve, copy title and hashtag ideas, export for TikTok, Reels and Shorts.
 
 The first time, the captions model (about 500 MB) downloads by itself; clips are made in the
