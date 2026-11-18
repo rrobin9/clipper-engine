@@ -4,6 +4,8 @@ Clipper Engine finds the hottest live GTA 6 streams on **Twitch and YouTube** an
 hype moment for you, in **widescreen and vertical 9:16, with captions**. It runs on your own
 computer: **free, no account, no login.**
 
+**New here? Read the 5-minute guide: [How to use Clipper Engine](GUIDE.md)**
+
 **Try the live preview first:** https://clipperengine.vercel.app
 
 ## Download
@@ -40,10 +42,14 @@ running: power it off and try again. Your clips and settings stay.
   chat explodes. **Clip it now** finds the best moment of the last 3 minutes, or takes the last
   15 s to 2 min; **Mark start / Mark end** clips exactly what you marked.
 - **GTA 6 Video Garage:** every clip in widescreen and 9:16 with captions. Trim, switch the layout,
-  approve, copy title and hashtag ideas, export for TikTok, Reels and Shorts.
+  approve, copy title and hashtag ideas, export for TikTok, Reels and Shorts. A progress bar shows
+  each clip being finished (about a minute); the export buttons switch on when it's done.
 
-The first time, the captions model (about 500 MB) downloads by itself; clips are made in the
-meantime. Clips are saved in **Movies/Clipper Engine** (Mac) or **Videos\Clipper Engine** (Windows).
+The first time, the captions model (about 500 MB) downloads by itself. Clips are finished and
+can be exported in the meantime; their captions are added when the download is done. Clips are
+saved in **Movies/Clipper Engine** (Mac) or **Videos\Clipper Engine** (Windows).
+
+Step by step, with fixes for common problems: **[How to use Clipper Engine](GUIDE.md)**.
 
 ## Is it safe?
 
