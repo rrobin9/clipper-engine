@@ -28,6 +28,10 @@ computer: **free, no account, no login.**
    (the app is new and not code-signed, not unsafe).
 3. Your browser opens the app. In Chrome or Edge, press **Install** for its own window.
 
+**Updating:** click **Power off** in the app first, then replace it with the new version (on a Mac,
+in Applications). If a Mac says *"Clipper Engine" can't be opened (-47)*, the old version is still
+running: power it off and try again. Your clips and settings stay.
+
 ## How it works
 
 - **Stream Dashboard:** the busiest live streams right now, ranked by how fast chat is moving,
