@@ -25,11 +25,15 @@ gets its own window and icon.
 
 Open **Stream Dashboard** from the home screen.
 
-- **Live now:** the busiest live GTA streams on Twitch and YouTube, ranked by how fast their chat
-  is moving.
+- **Live now:** the busiest live GTA streams on Twitch, YouTube and Kick (green mark), ranked by
+  how fast their chat is moving.
 - **Coming up:** GTA 6 streams that start soon, with a countdown.
 - **Pin** a stream to always record it when it's live. **Hide** removes it from the list.
-- **Add by name or link** to add your own stream (a Twitch name, a YouTube link or an @handle).
+- **Add by name or link** to add your own stream (a Twitch name, a YouTube or Kick link, or an
+  @handle).
+- **Watch live** (or press **V**) plays the stream in the app with its live chat next to it.
+  Under the stream, press **Record**, then **Clip it now** (**C**) or **Mark start → Mark end** (**K**)
+  to clip without leaving it. Close it with **Close** or **Esc**.
 
 ---
 
@@ -43,6 +47,11 @@ Open **Clipper Engine**. It starts by itself after a short countdown.
 
 Now leave it running. Each stream shows **stars**, its hype meter. When chat explodes, the app
 clips that moment **automatically**.
+
+It also clips **game moments**: the WASTED screen or a huge explosion, even when chat is quiet.
+Kick streams are clipped this way (the app can't read Kick's chat), so their lanes say
+**Game moments**. In the 9:16 version, **reaction zoom** punches in on the streamer's face when
+they scream or laugh (switch it off in **Options → Clips**).
 
 Want a clip right now?
 
@@ -83,7 +92,7 @@ Exports are in the **_exports** folder inside it.
 ## Handy keys
 
 **Esc** back · **Q** quick menu · **M** sound on/off · **1–9** clip that stream · **K** mark start/end ·
-**A** add a stream
+**A** add a stream · **V** watch live with chat
 
 ---
 
@@ -99,7 +108,8 @@ Exports are in the **_exports** folder inside it.
 | Mac: *"can't be opened (-47)"* | An older version is still running. Press **Power off** in it, then open the new one from Applications. |
 
 **Updating to a new version:** press **Power off** in the app, then replace the app with the new
-download (Mac: in Applications; Windows: the unzipped folder). Your clips and settings stay.
+download (Mac: in Applications; Windows: replace the old unzipped folder). You don't need to uninstall
+anything. Your clips and settings stay.
 
 Still stuck? [Open an issue](https://github.com/rrobin9/clipper-engine/issues) and say what you
 see and whether you use Mac or Windows.
@@ -107,5 +117,5 @@ see and whether you use Mac or Windows.
 ---
 
 Clip responsibly: each clip credits the streamer on screen. Follow each platform's rules and the
-streamers' wishes when you post. Not affiliated with Rockstar Games, Take-Two Interactive, Twitch
-or YouTube.
+streamers' wishes when you post. Not affiliated with Rockstar Games, Take-Two Interactive, Twitch,
+YouTube or Kick.

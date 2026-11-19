@@ -1,7 +1,8 @@
 # Clipper Engine: clip GTA 6 streams automatically (free)
 
-Clipper Engine finds the hottest live GTA 6 streams on **Twitch and YouTube** and clips every
-hype moment for you, in **widescreen and vertical 9:16, with captions**. It runs on your own
+Clipper Engine finds the hottest live GTA 6 streams on **Twitch, YouTube and Kick** and clips every
+hype moment for you, in **widescreen and vertical 9:16, with captions**. Watch any stream with
+its live chat right in the app. It runs on your own
 computer: **free, no account, no login.**
 
 **New here? Read the 5-minute guide: [How to use Clipper Engine](GUIDE.md)**
@@ -55,7 +56,7 @@ Step by step, with fixes for common problems: **[How to use Clipper Engine](GUID
 
 - The app only listens on your own computer (`http://localhost:7377`); other devices and
   websites cannot use it.
-- No account, no tracking, no ads. It only connects to Twitch and YouTube to watch the public
+- No account, no tracking, no ads. It only connects to Twitch, YouTube and Kick to watch the public
   streams you record (and once to download the captions model).
 - It is not code-signed (that costs a yearly fee), so Mac and Windows warn the first time.
   You can check that your download is the real one: the
@@ -67,7 +68,7 @@ Step by step, with fixes for common problems: **[How to use Clipper Engine](GUID
 
 - Clip responsibly: each clip credits the streamer on screen; follow each platform's rules and
   the streamers' wishes when you post.
-- Not affiliated with Rockstar Games, Take-Two Interactive, Twitch or YouTube.
+- Not affiliated with Rockstar Games, Take-Two Interactive, Twitch, YouTube or Kick.
 - Free to use, provided as is, without warranty.
 - Third-party software and licences, including the GPL notice for the bundled ffmpeg:
   [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
